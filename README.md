@@ -1,11 +1,15 @@
 # Webpack Configuration
 
-This is webpack v5 configuration, that I am using for static projects.
+This is webpack v5 configuration.
 
 ## Installation
 
 ```bash
 npm install
+```
+
+```bash
+npm prepare
 ```
 
 ## Usage
@@ -32,6 +36,12 @@ npm run test
 
 ```bash
 npm run lint
+```
+
+### Prettier
+
+```bash
+npm run prettier
 ```
 
 ## Features
