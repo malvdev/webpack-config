@@ -9,7 +9,7 @@ npm install
 ```
 
 ```bash
-npm prepare
+npm run prepare
 ```
 
 ## Usage
