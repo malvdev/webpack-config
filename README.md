@@ -5,7 +5,7 @@ This is webpack v5 configuration.
 ## Contents
 
 - [Features](#Features)
-- [Instalation](#Instalation)
+- [Installation](#Installation)
 - [How to use](#How-to-use)
 
 ## Features
