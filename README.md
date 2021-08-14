@@ -2,51 +2,15 @@
 
 This is webpack v5 configuration.
 
-## Installation
+## Contents
 
-```bash
-npm install
-```
-
-```bash
-npm run prepare
-```
-
-## Usage
-
-### Development
-
-```bash
-npm run start
-```
-
-### Production
-
-```bash
-npm run build
-```
-
-### Test
-
-```bash
-npm run test
-```
-
-### Lint
-
-```bash
-npm run lint
-```
-
-### Prettier
-
-```bash
-npm run prettier
-```
+- [Features](#Features)
+- [Instalation](#Instalation)
+- [How to use](#How-to-use)
 
 ## Features
 
-- [Webpack 5](https://webpack.js.org/)
+- [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Jest](https://jestjs.io/)
@@ -57,3 +21,36 @@ npm run prettier
 - [Husky](https://typicode.github.io/husky/#/)
 - [Commitlint](https://commitlint.js.org/#/guides-local-setup)
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+## Installation
+
+1. Have [Node.js](https://nodejs.org/en/) installed.
+1. Clone the project.
+1. Go to the project's folder and run `npm install` to install dependencies.
+
+## How to use
+
+```bash
+# Running for development
+npm run start
+```
+
+```bash
+# Running for production
+npm run build
+```
+
+```bash
+# Running tests
+npm run test
+```
+
+```bash
+# Lint
+npm run lint
+```
+
+```bash
+# Prettier
+npm run prettier
+```
