@@ -30,27 +30,32 @@ This is webpack v5 configuration.
 
 ## How to use
 
+Running for development
+
 ```bash
-# Running for development
 npm run start
 ```
 
+Running for production
+
 ```bash
-# Running for production
 npm run build
 ```
 
+Running tests
+
 ```bash
-# Running tests
 npm run test
 ```
 
+Lint
+
 ```bash
-# Lint
 npm run lint
 ```
 
+Prettier
+
 ```bash
-# Prettier
 npm run prettier
 ```
